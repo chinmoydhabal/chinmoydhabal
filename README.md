@@ -13,8 +13,8 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **FullStack Developer**
-- 🌱 I’m currently learning **FullStack Java**
+- 🔭 I’m currently working on **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Java**
 - 💬 Ask me about **My Knowledge**
 - 📫 How to reach me: **chinmoydhabal@gmail.com**
 - 📄 Know about my experiences: [Resume](https://Resume_cs22_chinmoy.netlify.app)
