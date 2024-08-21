@@ -13,9 +13,9 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **Spring Boot Microservices**
-- 🌱 I’m currently learning **AWS Cloud & ReactJS**
-- 💬 Ask me about **Java, Spring Boot, Microservices, SDLC**
+- 🔭 I’m currently working on **FullStack Java Developer**
+- 🌱 I’m currently learning **FullStack Java Development**
+- 💬 Ask me about **JVA FULL_STACK**
 - 📫 How to reach me: **chinmoydhabal@gmail.com**
 - 📄 Know about my experiences: [Resume](https://Resume_cs22_chinmoy.netlify.app)
 
@@ -66,6 +66,7 @@
 
 ---
 
+<!-- 
 ### 🚀 Technology Proficiency (Hover for details)
 
 <p align="center">
@@ -94,6 +95,8 @@
     <img src="https://progress-bar.dev/55/?title=Selenium&width=200&color=blue" alt="Selenium Progress Bar" />
   </a>
 </p>
+
+ -->
 
 ---
 
