@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+%7C+Microservices+%7C+ReactJS+%7C+Selenium;Always+learning+new+things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Full+Stack+......;Always+learning+new+things" alt="Typing Animation" />
 </div>
 
 <p align="center">
