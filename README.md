@@ -57,6 +57,7 @@
 </p>
 
 ---
+ <!--
 
 ### ⚡ Contribution Graph
 
@@ -66,7 +67,6 @@
 
 ---
 
-<!-- 
 ### 🚀 Technology Proficiency (Hover for details)
 
 <p align="center">
